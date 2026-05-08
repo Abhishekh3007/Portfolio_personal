@@ -64,11 +64,11 @@ function HeroSection() {
               <div key={i} className="w-8 h-8 rounded-full border-2 border-background bg-muted" />
             ))}
           </div>
-          <span className="text-sm text-muted-foreground">7,000+ people already subscribed</span>
+          <span className="text-sm text-muted-foreground">Welcome to my Portfolio</span>
         </motion.div>
 
         <motion.h1 {...fadeUp(0.1)} className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-medium tracking-[-2px] mb-6">
-          Get <span className="font-serif italic font-normal">Inspired</span> with Us
+          I,m <span className="font-serif italic font-normal">Abhishek</span> wali
         </motion.h1>
 
         <motion.p {...fadeUp(0.2)} className="text-base sm:text-lg mb-10 max-w-2xl mx-auto" style={{ color: 'hsl(var(--hero-subtitle))' }}>
