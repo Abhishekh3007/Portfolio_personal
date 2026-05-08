@@ -72,7 +72,7 @@ function HeroSection() {
         </motion.h1>
 
         <motion.p {...fadeUp(0.2)} className="text-base sm:text-lg mb-10 max-w-2xl mx-auto" style={{ color: 'hsl(var(--hero-subtitle))' }}>
-          Join our feed for meaningful updates, news around technology and a shared journey toward depth and direction.
+          A passionate developer crafting digital experiences that blend creativity with cutting-edge technology.
         </motion.p>
 
         <motion.div {...fadeUp(0.3)} className="liquid-glass rounded-full p-2 max-w-lg mx-auto flex flex-col sm:flex-row items-stretch sm:items-center gap-2">
